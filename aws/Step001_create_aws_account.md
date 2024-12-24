@@ -1,31 +1,30 @@
-# Bước 1: Tạo tài khoản AWS để sử dụng miễn phí EC2
+# Step 1: Create an AWS Account to Use Free EC2
 
-## 1. Truy cập AWS
-- Mở trình duyệt và truy cập [AWS Free Tier](https://aws.amazon.com/free/).
+## 1. Access AWS
+- Open your browser and go to [AWS Free Tier](https://aws.amazon.com/free/).
 
-## 2. Bắt đầu tạo tài khoản
-- Nhấp vào nút **Create an AWS Account**.
+## 2. Start Creating an Account
+- Click on the **Create an AWS Account** button.
 
-## 3. Điền thông tin tài khoản
-- **Email address**: Nhập email của bạn.
-- **Password**: Tạo mật khẩu mạnh.
-- **AWS account name**: Đặt tên cho tài khoản (ví dụ: `DevOps_Learning`).
+## 3. Fill in Account Information
+- **Email address**: Enter your email.
+- **Password**: Create a strong password.
+- **AWS account name**: Set an account name (e.g., `DevOps_Learning`).
 
-## 4. Chọn loại tài khoản
-- Chọn **Personal Account** (nếu tài khoản sử dụng cho cá nhân).
+## 4. Choose Account Type
+- Select **Personal Account** (if for personal use).
 
-## 5. Điền thông tin thanh toán
-- Nhập thông tin thẻ tín dụng hoặc thẻ ghi nợ (bắt buộc để xác minh, nhưng bạn sẽ không bị tính phí nếu chỉ dùng Free Tier).
+## 5. Enter Payment Information
+- Provide your credit or debit card details (required for verification, but you won't be charged if you stay within the Free Tier limits).
 
-## 6. Xác minh danh tính
-- AWS yêu cầu bạn xác minh danh tính bằng số điện thoại:
-  - Nhập số điện thoại của bạn.
-  - Nhận mã xác thực (OTP) qua SMS.
-  - Nhập mã xác thực vào ô tương ứng.
+## 6. Verify Your Identity
+- AWS requires phone verification:
+  - Enter your phone number.
+  - Receive a verification code (OTP) via SMS.
+  - Enter the verification code in the provided field.
 
-## 7. Chọn gói dịch vụ
-- Chọn gói **Free Tier**.
+## 7. Select a Plan
+- Choose the **Free Tier** plan.
 
-## 8. Đăng nhập vào AWS Management Console
-- Sau khi tài khoản được kích hoạt, đăng nhập tại [AWS Console](https://aws.amazon.com/console/).
-  
+## 8. Log in to the AWS Management Console
+- Once your account is activated, log in at [AWS Console](https://aws.amazon.com/console/).
