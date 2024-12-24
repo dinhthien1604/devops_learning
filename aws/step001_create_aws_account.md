@@ -1,4 +1,4 @@
-# Step 1: Create an AWS Account to Use Free EC2
+# Step 1: Create an AWS Account
 
 ## 1. Access AWS
 - Open your browser and go to [AWS Free Tier](https://aws.amazon.com/free/).
