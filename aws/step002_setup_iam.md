@@ -1,3 +1,5 @@
+# Step 2: Configure Security Mechanisms in IAM
+
 ## 1. Open the IAM Service
 - Go to **Services** > **Security, Identity, & Compliance** > **IAM**.
 
@@ -30,5 +32,7 @@
 1. Go to **Account settings** in the IAM dashboard.
 2. Set a strong password policy (e.g., require at least 12 characters, numbers, symbols, uppercase, and lowercase letters).
 3. Save the changes.
+
+---
 
 By following these steps, you ensure secure access and management of your AWS resources. Use IAM roles for better security and avoid sharing user credentials.
