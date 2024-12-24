@@ -3,3 +3,5 @@
 
 # Step 2: Configure User
 
+# Step 3: Setup AWS CLI (Optional)
+
